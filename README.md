@@ -1,7 +1,7 @@
 # Diamond Price Prediction for Xi Diamonds Inc.
 
-![Diamond Price Prediction](images/Cover Page.png)
-![Microsoft Movie Production](images/Front.png)
+![Diamond Price Prediction](images/CoverPage.png)
+
 ### Business Problem
 
 **Background**
